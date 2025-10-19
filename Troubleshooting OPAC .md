@@ -1,0 +1,3 @@
+# Fixing my OPAC
+Once I finished creating my OPAC, I realized that the cataloging portion of the website did not work. So, I looked at the main folder filed to figure out what went wrong. 
+![image description](./images/1.png)
