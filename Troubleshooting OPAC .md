@@ -30,6 +30,4 @@ If the "insert.php" file doens't exist at all, you will need to create it and po
 
 ## Conclusion
 
-After all of this my cataloging part of the website started to work! I then (very excitedly) entered several books, and was very happy. I wish you luch in troubleshooting!
-
-After all of this, my cataloging part of the website started to work! I then entered several books, and was very happy. 
+After all of this my cataloging part of the website started to work! I then (very excitedly) entered several books, and was very happy. I wish you luck in troubleshooting!
