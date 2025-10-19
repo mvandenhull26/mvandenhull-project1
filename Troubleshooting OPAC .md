@@ -19,7 +19,7 @@ And then ran "cd /var/www/html"
 
 ![image description](./images/5.png)
 
-I went into my cataloging folder using "ls cataloging"
+I ran "ls" agian to see what my options were once again.
 
 ![image description](./images/6.png)
 
