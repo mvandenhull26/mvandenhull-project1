@@ -15,7 +15,7 @@ Next, I went into "ls /var/www/html"
 
 ![image description](./images/4.png)
 
-And then selected ls
+And then ran "cd /var/www/html"
 
 ![image description](./images/5.png)
 
