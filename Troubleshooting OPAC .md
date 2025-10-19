@@ -1,22 +1,12 @@
 # OPAC Book Cataloging Fails When Creating New Catalog Entry
 
-Upon entering a new book into my cataloging website, instead of the book being entered, an error of "Not Found - The requested URL was not found on this server" presented itself. 
+This page described how to resolve an issue that come up when the insert.php filr in the simple OPAC application is not found. When this issue occurs, attempting to add a new book on the page "cataloging/index.html" will not result in a "Not Found" pafe being shown when the "Submit button is pressed. 
 
-![image description](./images/1.png)
+![image description](./images/.5.png)
 
-From here, I navigated to my website folder using "cd-mvandenhull-project1"
+The root of the issue is the file "cataloging/insert.php" is not present. You can verify that you are experiencing this issue by reading the URL bar. If it ends in "cataloging/insert.php" as depicted, and you are getting the "Not Found" error page shown above, this pagee can help you. If not, you are most likely to be encountering another issue.
 
-![image description](./images/2.png)
-
-Then I used "ls" to find what I had in the system. 
-
-![image description](./images/3.png)
-
-Next, I went into "ls /var/www/html"
-
-![image description](./images/4.png)
-
-And then ran "cd /var/www/html"
+The problem is resolved by ensuring that the file "cataloging/index.php has the appropriate name as well as contents. To start correcting this error, navigate to the folder containing your cataloging pages. 
 
 ![image description](./images/5.png)
 
