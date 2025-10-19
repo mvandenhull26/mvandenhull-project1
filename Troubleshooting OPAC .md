@@ -11,7 +11,7 @@ Then I used "ls" to find what I had in the system.
 
 ![image description](./images/3.png)
 
-Next, I went into "cd /var/www/html"
+Next, I went into "ls /var/www/html"
 
 ![image description](./images/4.png)
 
