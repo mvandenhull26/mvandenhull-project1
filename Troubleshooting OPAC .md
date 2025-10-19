@@ -23,12 +23,14 @@ I ran "ls" agian to see what my options were once again.
 
 ![image description](./images/6.png)
 
-Then what the issue I discovered that I accidentally named a file as "instert" instead of "insert", so I have to move the folder. So I ran "mv cataloging/instert.php cataloging/insert.php"
+Then what the issue I discovered that I accidentally named a file as "instert" instead of "insert". Silly me and my silly goofy typos causing issues.
 
 ![image description](./images/7.png)
 
-Didn't quited work right, so I realized I needed "sudo" at the front, aka "sudo mv cataloging/sintert.php cataloging/insert.php"
+I realized I needed to move the folder, so I ran "mv cataloging/instert.php cataloging/insert.php" so my typo folder would be redirected into the correct folder. 
 
 ![image description](./images/8.png)
+
+It didn't work right, and I realized I needed "sudo" in front of my command line, so I then ran "sudo mv cataloging/instert.php cataloging/insert.php"
 
 ![image description](./images/9.png)
