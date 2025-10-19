@@ -1,5 +1,6 @@
-# Fixing my OPAC
-Once I finished creating my OPAC, I realized that the cataloging portion of the website did not work. So, I looked at the main folder filed to figure out what went wrong. 
+# OPAC Book Cataloging Fails When Creating New Catalog Entry
+
+Upon entering a new book into my cataloging website, instead of the book being entered, an error of "Not Found - The requested URL was not found on this server" presented itself. 
 
 ![image description](./images/1.png)
 
