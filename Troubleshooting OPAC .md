@@ -3,7 +3,7 @@ Once I finished creating my OPAC, I realized that the cataloging portion of the 
 
 ![image description](./images/1.png)
 
-From here, I navigated to mu website folder using "cd-mvandenhull-project1"
+From here, I navigated to my website folder using "cd-mvandenhull-project1"
 
 ![image description](./images/2.png)
 
