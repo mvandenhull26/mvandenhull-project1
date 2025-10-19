@@ -34,3 +34,5 @@ I realized I needed to move the folder, so I ran "mv cataloging/instert.php cata
 It didn't work right, and I realized I needed "sudo" in front of my command line, so I then ran "sudo mv cataloging/instert.php cataloging/insert.php"
 
 ![image description](./images/9.png)
+
+After all of this, my cataloging part of the website started to work! I then entered several books, and was very happy. 
